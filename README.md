@@ -1,4 +1,4 @@
 # cve_record
-##IOT
-###D-Link
+## IOT
+### D-Link
 CVE-2023-24762
